@@ -1,0 +1,6 @@
+- [[0.English/1.Glossary/ComputerScience/Python/List]] with [[print|print()]]
+	-  returns its representation of the list, including the square bracket
+- [[0.English/1.Glossary/ComputerScience/Python/List]] with [[sorted|sorted()]]
+	- sort a list temporarily   
+- [[0.English/1.Glossary/ComputerScience/Python/List]] with [[len|len()]]
+	- find the length of a list  

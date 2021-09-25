@@ -1,0 +1,3 @@
+---
+aliases: [table header]
+---

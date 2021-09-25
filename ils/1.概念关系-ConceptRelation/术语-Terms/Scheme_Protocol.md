@@ -1,0 +1,1 @@
+- In my opinion, the [[Scheme]] is a "location" of the [[UniformResourceLocator|URL]], and the [[HypertextTransferProtocolSecure|HTTPS Protocol]] and [[HypertextTransferProtocol|HTTP]] is the "content" of the [[UniformResourceLocator|URL]]

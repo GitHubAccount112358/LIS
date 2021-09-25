@@ -1,0 +1,2 @@
+# Function
+- implemented recently to solve the problems indicated above by letting you offer the browser several image files, either all showing the same thing but containing different numbers of pixels ([[ResolutionSwitchingProbelm]]), or different images suitable for different space allocations ([[ArtDirectionProblem]]).

@@ -1,0 +1,1 @@
+- https://www.quora.com/Are-IDE-and-IDLE-the-same-in-Python

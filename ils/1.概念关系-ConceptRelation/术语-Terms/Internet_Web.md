@@ -1,0 +1,2 @@
+- The [[Internet]] is the backbone of the [[Web]],the technical infrastructure that makes the [[Web]] possible.
+- The [[Internet]] is an infrastructure, whereas the [[Web]]is a service built on top of the infrastructure.

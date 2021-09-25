@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "b35a618ebaa003ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb2d8aa8a3618099",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ContentWord/Adverb/Native_Adverb/aloud.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2bf3bb8fe4df0bb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fdf8e05cca35d72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d803fa50f25bd44f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d5c5128004858f90",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9aa9bffa1317f572",
+    "type": "split",
+    "children": [
+      {
+        "id": "49bf5556d596437c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af804784575d4544",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ContentWord/Adverb/Native_Adverb/aloud.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bb2d8aa8a3618099",
+  "lastOpenFiles": [
+    "ContentWord/Adverb/Native_Adverb/aloud.md",
+    "ContentWord/Adverb/Native_Adverb/ahead.md",
+    "ContentWord/Adverb/Native_Adverb/aboard.md",
+    "ContentWord/Adverb/Non_Native_Adverb/ably/probably.md",
+    "FunctionWord/Article/Definite_Article/the.md",
+    "Untitled.md",
+    "at.md",
+    "fairly.md",
+    "downstairs.md",
+    "Untitled 1.md"
+  ]
+}

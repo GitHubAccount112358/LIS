@@ -1,0 +1,1 @@
+- if you hear someone say, "My [[Website]] is not responding", it actually means that the [[WebServer]] is not responding and therefore the [[Website]] is not available.

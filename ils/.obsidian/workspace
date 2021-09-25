@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "04c5f0b43bb4c137",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f38d05d17774987",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ABOUT.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11e7e90ed54437b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf218ccc5ccac010",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "369f419baeaa3f27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "67569b8cf95b1486",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "sli",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221.00000190734863
+  },
+  "right": {
+    "id": "5407c24ed3899bf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8d82d881c822ff2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9936b0803ec7747c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ABOUT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "abaef3238fa6278a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ABOUT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5d631731878af68a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.0671691894531,
+    "collapsed": true
+  },
+  "active": "7f38d05d17774987",
+  "lastOpenFiles": [
+    "ABOUT.md",
+    "0.English/1.Glossary/ComputerScience/Python/Comment(Python).md",
+    "0.English/0.Dictionary/ContentWord/Noun/Dictionary.md",
+    "0.English/0.Dictionary/ContentWord/Noun/Glossary.md",
+    "0.中文/0.字典/实词/名词/字典.md",
+    "Untitled.md",
+    "1.English/0.Dictionary/ContentWord/Adverb/Native_Adverb/aboard.md",
+    "概念关系&concept_relation/AboutHTML/Tag_Attribute.md",
+    "1.English/Glossary/ComputerScience_list/SearchEngineOptimization.md",
+    "1.English/Glossary/ComputerScience_list/ComputerLanguage/ScalableVectorGraphics.md"
+  ]
+}

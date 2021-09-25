@@ -1,0 +1,76 @@
+- [[0.English/1.Glossary/ComputerScience/Tag(Element)/a]]	
+	- [[href]]
+	- [[0.English/1.Glossary/ComputerScience/Attribute(Element)/title|title]]
+	- [[target]]
+	- [[download]]
+---
+- [[meta]]
+	- [[charset]]
+	- [[name]]
+	- [[content]]
+---
+- [[link]]
+	- [[rel]]
+	- [[href]]
+---
+- script
+	- [[src]]
+	- [[defer]]
+---
+- [[html]]
+	- [[lang]]
+---
+- [[p]]
+	- [[lang]]
+---
+- [[abbr]]
+	- [[0.English/1.Glossary/ComputerScience/Attribute(Element)/title|title]]
+---
+- [[img]]
+	- [[src]]
+	- [[srcset]]
+	- [[alt]]
+	- [[0.English/1.Glossary/ComputerScience/Attribute(Element)/title|title]]
+	- [[sizes]]
+---
+- [[video]]
+	- [[src]]
+	- [[controls]]
+	- [[width]]
+	- [[height]]
+	- poster
+	- loop
+	- muted
+	- [[preload]]
+	- poster
+---
+- [[source]]
+	- [[0.English/1.Glossary/ComputerScience/Attribute(Element)/type|type]]
+	- [[media]]
+	- [[srcset]]
+---
+- [[audio]]
+	- [[controls]]
+	- loop
+	- muted
+	- [[preload]]
+	- [[src]]
+---
+- [[track]]
+	- kind
+	- [[src]]
+	- srclang
+---
+- [[iframe]]
+	- [[allowfullscreen]]
+	- [[src]]
+	- [[width]]
+	- [[height]]
+	- [[sandbox|sandbox]]
+---
+- [[col]]
+	- [[0.English/1.Glossary/ComputerScience/Attribute(Element)/style|style]]
+	- [[0.English/1.Glossary/ComputerScience/Attribute(Element)/span|span]]
+---
+- [[th]]
+	- [[scope]]
